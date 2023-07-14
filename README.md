@@ -4,10 +4,6 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Health State Assistant
 
-Building AI course project - an idea for an AI project (analyze health data to give some healthy guidance to the user)
-
-# Project Title
-
 Building AI course project - AI-Powered Health Monitoring and Guidance System
 
 ## Summary
