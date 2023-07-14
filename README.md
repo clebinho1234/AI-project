@@ -28,7 +28,7 @@ Fitness enthusiasts: The assistant can provide personalized exercise and nutriti
 
 General users: The system can offer general health monitoring, including sleep patterns, stress levels, and activity tracking, to promote overall well-being.
 
-Users interact with the Health State Assistant through a user-friendly interface, which may include a mobile app or a web portal. They can input health data, answer specific questions about their symptoms or lifestyle, and receive personalized insights, recommendations, and alerts based on AI analysis of the collected information. In this project you can find a sample code where you can give soma data on the x_test array (with the order: age, height, weight, sleep time) and the program will say if youre healthy or not healthy based on the x_train array that contains data created by myself as an example.
+Users interact with the Health State Assistant through a user-friendly interface, which may include a mobile app or a web portal. They can input health data, answer specific questions about their symptoms or lifestyle, and receive personalized insights, recommendations, and alerts based on AI analysis of the collected information. In this project you can find a sample code where you can give soma data on the x_test array (with the order: age, height, weight, sleep time) and the program will say if youre healthy or not healthy based on the x_train array that contains data created by myself as an example. I used PyCharm to make the code.
 
 ## Data sources and AI methods
 
