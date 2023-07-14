@@ -2,9 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
+# Health State Assistant
+
+Building AI course project - an idea for an AI project (analyze health data to give some healthy guidance to the user)
+
 # Project Title
 
-Health State Assistant: AI-Powered Health Monitoring and Guidance System
+Building AI course project - AI-Powered Health Monitoring and Guidance System
 
 ## Summary
 
